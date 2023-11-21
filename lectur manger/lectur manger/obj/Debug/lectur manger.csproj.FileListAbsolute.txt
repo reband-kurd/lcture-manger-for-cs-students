@@ -1,0 +1,7 @@
+C:\Users\reban\source\repos\lectur manger\lectur manger\bin\Debug\lectur manger.exe.config
+C:\Users\reban\source\repos\lectur manger\lectur manger\bin\Debug\lectur manger.exe
+C:\Users\reban\source\repos\lectur manger\lectur manger\bin\Debug\lectur manger.pdb
+C:\Users\reban\source\repos\lectur manger\lectur manger\obj\Debug\lectur manger.csproj.AssemblyReference.cache
+C:\Users\reban\source\repos\lectur manger\lectur manger\obj\Debug\lectur manger.csproj.CoreCompileInputs.cache
+C:\Users\reban\source\repos\lectur manger\lectur manger\obj\Debug\lectur manger.exe
+C:\Users\reban\source\repos\lectur manger\lectur manger\obj\Debug\lectur manger.pdb
